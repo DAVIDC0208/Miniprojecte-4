@@ -1,0 +1,29 @@
+body {
+    background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.interior-h1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 64px;
+    margin: 20px;
+}
+.interior-p {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 26px;
+    margin: 20px;
+}
+.texto {
+    width: 610px;
+    height: 545;
+    text-align: center;
+    margin-bottom: 50px;
+}
